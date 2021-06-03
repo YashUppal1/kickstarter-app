@@ -3,10 +3,10 @@ const Web3 = require("web3");
 const compiledFactory = require("./build/CampaignFactory.json");
 
 const provider = new HDWalletProvider(
-  "juice bicycle seek common shield hello below angry source share exact mobile",
-  // remember to change this to your own phrase!
-  "https://rinkeby.infura.io/v3/15c1d32581894b88a92d8d9e519e476c"
-  // remember to change this to your own endpoint!
+  "sick dose green cheese harsh poet ginger grow spice notice inmate project",
+  
+  "https://rinkeby.infura.io/v3/1c8e9c1ae0de4f5994f119184de1fb6e"
+  
 );
 const web3 = new Web3(provider);
 
