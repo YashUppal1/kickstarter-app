@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+<<<<<<< HEAD
 import { Button } from "semantic-ui-react";
 import { Link } from "../../../routes";
 import Layout from "../../../components/Layout";
@@ -30,6 +31,12 @@ class RequestIndex extends Component {
         </Link>
       </Layout>
     );
+=======
+
+class RequestIndex extends Component {
+  render() {
+    return <h3>Request List</h3>;
+>>>>>>> c2fb56591abbd9722a8892de64cbb247a528ebb8
   }
 }
 
