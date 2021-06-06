@@ -1,2 +1,3 @@
 node_modules
 .next/cache/webpack/client-development/23.pack
+.next/cache/webpack/client-development
